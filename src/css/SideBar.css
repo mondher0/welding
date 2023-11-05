@@ -1,0 +1,28 @@
+.sidebar {
+  padding: 30px 0px;
+  width: 300px;
+  background-color: #54799b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: margin-left 0.3s ease-out;
+}
+.sidebar .links {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 50px;
+}
+.sidebar .links a {
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  line-height: normal;
+  text-decoration: none;
+}
+.active {
+  color: #7acdfb !important;
+}

@@ -1,0 +1,10 @@
+.sondage-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 70%;
+}

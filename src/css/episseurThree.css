@@ -1,0 +1,10 @@
+.three h3 {
+  color: #4c4c4c;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.three img {
+    width:400px;
+    height: 100%;
+}

@@ -1,0 +1,36 @@
+.epaisseur {
+  display: flex;
+  width: 311px;
+  padding: 25px 9px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  border: 1px solid #7acdfb;
+}
+.epaisseur .number {
+  border-radius: 10px;
+  border: 3px solid #fff;
+  background-color: #7acdfb;
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+}
+.epaisseur .number p {
+  color: #4c4c4c;
+  text-align: center;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0;
+  opacity: 1!important;
+}
+.epaisseur p {
+  color: #4c4c4c;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

@@ -1,0 +1,33 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 70%;
+}
+.content h2 {
+  color: #4c4c4c;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.content ol {
+    color: #4c4c4c;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.content ol li span {
+    font-weight: 700;
+}
+.content ol {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+}

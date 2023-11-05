@@ -1,0 +1,27 @@
+.desc {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 200px;
+}
+.desc h3 {
+  color: #4c4c4c;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 0;
+}
+.desc1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.desc2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 58px;
+}

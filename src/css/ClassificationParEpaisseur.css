@@ -1,0 +1,11 @@
+.content-epaisseur {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  overflow: hidden;
+  width: 70%;
+}
